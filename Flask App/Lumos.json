@@ -1,0 +1,26 @@
+{
+    "equipment": [
+        {
+            "name": "Transformer",
+            "test_procedures": [
+                {
+                    "test_name": "Oil Quality Test",
+                    "procedure": "1. Disconnect the transformer from the power source.\n2. Drain a sample of the transformer oil.\n3. Perform laboratory tests on the oil sample.",
+                    "acceptable_limits": "Moisture content: 35 ppm, Acidity: 0.05 mg KOH/g"
+                }
+            
+            ]
+        },
+        {
+            "name": "Circuit Breaker",
+            "test_procedures": [
+                {
+                    "test_name": "Tripping Issue",
+                    "procedure": "1. Check for short circuits or overload issues.\n2. Inspect the circuit breaker for signs of damage.",
+                    "acceptable_limits": "Depends on the specific issue; follow manufacturer guidelines."
+                }
+            ]
+        }
+        
+    ]
+}
